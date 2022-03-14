@@ -1,7 +1,7 @@
 #飞花令查询程序
 Hi！这是一个简单的利用多线程实现的飞花令查询程序！具体使用方法可以参见我的博客：
 
-[多线程实现飞花令-多诗库版](https://blog.csdn.net/meituwo/article/details/123482660?spm=1001.2014.3001.5501)
+[多线程实现飞花令-多诗库版](https://simon.blog.csdn.net/article/details/123482687)
 
 用到的两个诗库：
 
